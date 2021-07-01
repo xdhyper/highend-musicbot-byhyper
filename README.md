@@ -1,5 +1,4 @@
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
-<p align="center">Thanks for 25k Views with 500 subs!</p>
 
 ## ✨Latest Updates✨
 
@@ -16,26 +15,21 @@ A Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/
 
 ## 📝 [Support Server](https://discord.gg/a9SHDpD)
 
-Do you have any issues with the bot? Head to our [Discord Server](https://discord.gg/a9SHDpD) where we can help you faster than creating a GitHub issue. If you have a major bug to report, it would be best to create an [issue here](https://github.com/SudhanPlayz/Discord-MusicBot/issues).
+Do you have any issues with the bot? Head to our [Discord Server](https://discord.gg/uUuHMa7h46) where we can help you faster than creating a GitHub issue. If you have a major bug to report, it would be best to create an [issue here](https://github.com/xdhyper/highend-musicbot-byhyper/issues).
 
-## 📸 Screenshots
-
-<div align="left"><img src="/assets/Screenshot_1.png"></div><div align="center"><img src="/assets/Screenshot_2.png"></div><div align="right"><img src="/assets/Screenshot_3.png"></div>
-
-<div align="center"><img src="/assets/Features.png"></div>
 
 ## 💨 Run the projects
 
-Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/SudhanPlayz/Discord-MusicBot)
-Repl: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
-Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudhanPlayz/Discord-MusicBot)
+Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/xdhyper/highend-musicbot-byhyper)
+Repl: [![Run on Repl.it](https://repl.it/badge/github/xdhyper/highend-musicbot-byhyper)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
+Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xdhyper/highend-musicbot-byhyper)
 
 ## ✨ Contributors
 
 Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
 
-<a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
+<a href="https://github.com/xdhyper/highend-musicbot-byhyper">
+  <img src="https://contributors-img.web.app/image?repo=xdhyper/highend-musicbot-byhyper" />
 </a>
 
 Made with :heart: and JavaScript!
