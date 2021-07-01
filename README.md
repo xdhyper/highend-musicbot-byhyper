@@ -28,7 +28,7 @@ Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.
 
 Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
 
-<a href="https://github.com/xdhyper/highend-musicbot-byhyper">
+<a href="https://github.com/xdhyper/highend-musicbot-byhyper/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=xdhyper/highend-musicbot-byhyper" />
 </a>
 
