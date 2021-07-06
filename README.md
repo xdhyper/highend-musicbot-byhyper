@@ -32,4 +32,4 @@ Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONT
   <img src="https://contributors-img.web.app/image?repo=xdhyper/highend-musicbot-byhyper" />
 </a>
 
-Made with :heart: and JavaScript!
+Made with :heart: and JavaScript...!
