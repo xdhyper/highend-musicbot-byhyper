@@ -9,7 +9,7 @@
 When you decide that you want to host this bot yourself, please do not expect this to work on the first try unless you know what you're doing. You need to know how to use the Discord Developer Portal as well as adding redirect_uri links to make your dashboard work properly. We try to help as best as we can, but please don't expect us to do it for you because are things that are required when using this bot.
 
 
-## 📝 Tutorials
+## 📝 Tutorial
 
 A Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](https://www.youtube.com/watch?v=p4lP96Tiv9s)
 
